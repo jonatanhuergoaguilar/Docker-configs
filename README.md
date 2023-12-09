@@ -12,10 +12,10 @@ Don't worry Sailor, I'm going to explain to you how to do it using two simple co
 
 1. **First command** :eggplant:
     - Go to the project folder, open a terminal, and then run the following command:
-    ```docker build -t your_image_name .```
+    - ```docker build -t your_image_name .```
 2. **Second command** :alien:
     - Then run the following command:
-    ```docker run -d -p 8080:8080 your_image_name```
+    - ```docker run -d -p 8080:8080 your_image_name```
 
 ## Warning :weary:
 

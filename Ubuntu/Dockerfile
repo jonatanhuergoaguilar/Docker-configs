@@ -1,6 +1,6 @@
 FROM ubuntu:latest
 
-LABEL authors="linuxchan"
+LABEL authors="Jonatan Huergo"
 
 ENV TZ=Asia/Manila
 RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone

@@ -1,4 +1,4 @@
-# Use the official Node.js 14 image from Docker Hub
+# Use the official Node.js  image from Docker Hub
 FROM node:latest
 
 # Update npm to the latest version
